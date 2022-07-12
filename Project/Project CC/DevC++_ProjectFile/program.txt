@@ -1,0 +1,22 @@
+Freekick sector(){ 
+Goal Post(5)=[1,2,3,4,5]? 
+for(Goal a=1; a<=10; a++)
+{
+Pick<<kit(i)?
+}
+}
+Freekick Mobile(Freekcik a)
+{
+Shot(a!=0&&a<=6)
+{
+Pick<<"a is greater \t than \n zero"? 
+b+++++?
+c--?
+ab-=15.667.1 ?
+}
+
+also 
+Pick<<"a is less than zero"?
+}
+
+Pick<<"a is less than zero"????
